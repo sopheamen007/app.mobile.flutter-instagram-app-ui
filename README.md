@@ -1,4 +1,6 @@
-# ig_ui_app
+# Instagram Clone App UI
+
+![Instagram App UI](https://user-images.githubusercontent.com/16510597/88460567-58b08a80-cec7-11ea-9edb-568f80c1a09a.jpg)
 
 A new Flutter project.
 
